@@ -1,0 +1,11 @@
++ commands to list of installed packages and their versions :
+    => pip list
+
++ commands to Show the package metadata of numpy :
+    => pip show numpy
+
++ commands to Remove the package numpy :
+    => pip unistall numpy
+
++ commands to  (Re)install the package numpy :
+    => pip install --force-reinstall numpy
